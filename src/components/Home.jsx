@@ -1,5 +1,6 @@
 import React from 'react'
 import {HiArrowNarrowRight} from 'react-icons/hi'
+import Avt from '../assets/khoi.jpg'
 
 const Home = () => {
   return (
