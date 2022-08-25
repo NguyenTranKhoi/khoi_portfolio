@@ -15,7 +15,7 @@ const About = () => {
                         <p>I am Khoi, web developer from VietNam. I have profound interest in website design,
                             building and customization, and everything in between, also am rather at ReactJS.</p>
                     </div>
-                    <div className=''>
+                    <div className='font-medium'>
                         <p>I am passionate about programming to improve the lives of the people around me. I specialize in creating websites for clients from individuals and small businesses...
                             What would you do if there was a web developer available at your fingertips?
                         </p>
