@@ -3,7 +3,7 @@ import WorkImg from '../assets/tp1.jpg'
 import WorkImg2 from '../assets/tp2.jpg'
 import WorkImg3 from '../assets/tp5.jpg'
 import WorkImg4 from '../assets/tp3.jpg'
-import WorkImg5 from '../assets/tp4.jpg'
+import WorkImg5 from '../assets/tp7.jpg'
 import WorkImg6 from '../assets/tp6.jpg'
 
 
